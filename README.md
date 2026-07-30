@@ -69,6 +69,17 @@ Small AI-powered tools I've built and made public. Shared as-is, without warrant
 
 - *(nothing here yet)*
 
+## 🐞 Found a bug? Have an idea?
+
+Every project above has its own issue tracker. Open the repository you're using
+and file an issue there — each one has templates so you know what's useful to
+include. Bug reports, documentation corrections and feature ideas are all welcome.
+
+For anything **security-related** in
+[bitwarden-vaultwarden-sync](https://github.com/t-philip/bitwarden-vaultwarden-sync),
+please use its [private reporting channel](https://github.com/t-philip/bitwarden-vaultwarden-sync/security/advisories/new)
+rather than a public issue.
+
 ---
 
 <sub>All public content is open to use — please credit **t-philip**. Repositories are
