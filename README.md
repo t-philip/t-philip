@@ -11,11 +11,12 @@ free to use.
 
 ## 📂 Projects by category
 
-### 🎵 ESP32 Projects
+### 📡 ESP32 Projects
 
 | Project | What it does |
 |---|---|
 | **[spotify-nowplaying](https://github.com/t-philip/spotify-nowplaying)** | A WiFi display showing your currently-playing Spotify track — album art, progress, and transport controls from a web dashboard. Observes playback on your *other* devices, so no audio hardware is needed. |
+| **[wifi-signal-scanner](https://github.com/t-philip/wifi-signal-scanner)** | A live WiFi signal-strength meter on a small TFT — strength label, RSSI in dBm, and a scrolling history graph for walking a signal around a building. You pick the network in a browser, so nothing needs recompiling. |
 
 ### 🛡️ Blocklists for DNS
 
