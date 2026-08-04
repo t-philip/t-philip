@@ -59,16 +59,16 @@ Small AI-powered tools I've built and made public. Shared as-is, without warrant
 
 ---
 
-## 🔗 Elsewhere
+## 🛠️ What to expect
 
-<!--
-  Add any links you'd like to share with your audience here — blog, LinkedIn,
-  YouTube, Mastodon, a personal site, etc. Format:
-    - **[Label](https://url)** — one-line description
-  Delete this section entirely if you'd rather not link out.
--->
+These started as tools I wanted for myself, so they're shaped by having to live
+with them rather than demo them. They run on your own hardware — no account to
+create, no hosted service in the middle, no telemetry.
 
-- *(nothing here yet)*
+Every project here carries a tagged release with notes written for someone
+running the software rather than reading commit history, and its own issue
+tracker with templates. Where something is implemented but not yet verified, the
+documentation says so rather than implying otherwise.
 
 ## 🐞 Found a bug? Have an idea?
 
