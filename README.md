@@ -59,6 +59,10 @@ running the software rather than reading commit history, and its own issue
 tracker with templates. Where something is implemented but not yet verified, the
 documentation says so rather than implying otherwise.
 
+Every project also ships a design spec (`docs/DESIGN_SPEC.md`) explaining how it's
+built and why, reconciled against the actual shipped code — not a pre-launch plan
+left to go stale.
+
 ## 🐞 Found a bug? Have an idea?
 
 Every project above has its own issue tracker. Open the repository you're using
