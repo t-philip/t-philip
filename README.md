@@ -48,17 +48,6 @@ Drop straight into your blocker:
 
 ---
 
-## 🤖 AI Artifacts
-
-Small AI-powered tools I've built and made public. Shared as-is, without warranty.
-
-| Tool | What it does |
-|---|---|
-| **[AI Insight Finance](https://t-philip.short.gy/ai-insight-finance)** | Analyse income vs. expenses with intelligent insights. |
-| **[AI Trip Planner](https://t-philip.short.gy/ai-trip-planner)** | Plan and build travel itineraries. |
-
----
-
 ## 🛠️ What to expect
 
 These started as tools I wanted for myself, so they're shaped by having to live
