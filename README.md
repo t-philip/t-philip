@@ -39,6 +39,7 @@ Drop straight into your blocker:
 | Project | What it does |
 |---|---|
 | **[sky-radar](https://github.com/t-philip/sky-radar)** | Real-time flight tracking dashboard — Flask + Socket.IO backend, Leaflet map, OpenSky Network API, with watchlist alerting and JSONL logging. |
+| **[omnimeter](https://github.com/t-philip/omnimeter)** | Self-hosted dashboard for household power, gas, water and battery usage. Works with any P1 smart meter — live polling or CSV import — tracks costs against your own energy tariff, and estimates solar self-sufficiency. |
 
 ### 🖥️ Scripts & Guides
 
