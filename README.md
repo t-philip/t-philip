@@ -33,6 +33,7 @@ Drop straight into your blocker:
 | Project | What it does |
 |---|---|
 | **[bitwarden-vaultwarden-sync](https://github.com/t-philip/bitwarden-vaultwarden-sync)** | Syncs a Bitwarden.com vault to a self-hosted Vaultwarden instance — attachments included — with encrypted backups and Telegram alerts. |
+| **[network-monitor](https://github.com/t-philip/network-monitor)** | See what your own Windows machine is actually sending — a live browser dashboard of HTTP and HTTPS traffic, with decrypted headers and bodies, covering background apps and not just your browser. Nothing is written to disk and nothing leaves the machine. Reading HTTPS means trusting a local root certificate, and the README is upfront about what that costs you. |
 
 ### 🐍 Python
 
@@ -78,4 +79,4 @@ rather than a public issue.
 ---
 
 <sub>All public content is open to use — please credit **t-philip**. Repositories are
-GPL-3.0 licensed unless stated otherwise.</sub>
+AGPL-3.0 licensed unless stated otherwise.</sub>
